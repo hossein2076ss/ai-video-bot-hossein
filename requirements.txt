@@ -1,7 +1,0 @@
-python-telegram-bot
-flask
-moviepy>=2.0.0
-google-generativeai
-edge-tts
-requests
-pillow

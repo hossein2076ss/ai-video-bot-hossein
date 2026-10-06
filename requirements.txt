@@ -1,0 +1,10 @@
+python-telegram-bot[socks]>=21.0
+flask
+edge-tts>=6.1.12
+moviepy>=2.1
+requests
+numpy
+Pillow
+arabic-reshaper
+python-bidi
+gTTS
